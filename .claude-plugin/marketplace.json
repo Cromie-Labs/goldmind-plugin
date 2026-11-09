@@ -1,17 +1,32 @@
 {
   "name": "goldmind",
-  "owner": { "name": "Cromie Labs", "url": "https://goldmind.gg" },
-  "metadata": { "description": "Goldmind for Claude: live WoW Forever auction-house prices, craft profits, drop rates and farm plans for your own characters." },
+  "owner": {
+    "name": "Cromie Labs",
+    "url": "https://goldmind.gg"
+  },
+  "metadata": {
+    "description": "Goldmind for Claude: live WoW Forever auction-house prices, craft profits, drop rates and farm plans for your own characters."
+  },
   "plugins": [
     {
       "name": "goldmind",
       "source": "./",
       "description": "Live WoW Forever auction-house prices, craft profits, drop rates and farm plans for your own characters, from Goldmind.",
-      "version": "2.0.0-next.6",
-      "author": { "name": "Cromie Labs", "url": "https://goldmind.gg" },
+      "version": "2.0.0",
+      "author": {
+        "name": "Cromie Labs",
+        "url": "https://goldmind.gg"
+      },
       "homepage": "https://goldmind.gg/mcp",
       "license": "MIT",
-      "keywords": ["world of warcraft", "wow forever", "auction house", "gold", "crafting", "farming"]
+      "keywords": [
+        "world of warcraft",
+        "wow forever",
+        "auction house",
+        "gold",
+        "crafting",
+        "farming"
+      ]
     }
   ]
 }
