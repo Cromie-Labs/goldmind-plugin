@@ -1,0 +1,20 @@
+{
+  "name": "goldmind",
+  "version": "2.0.0-next.6",
+  "description": "Live WoW Forever auction-house prices, craft profits, drop rates and farm plans for your own characters, from Goldmind.",
+  "author": {
+    "name": "Cromie Labs",
+    "url": "https://goldmind.gg"
+  },
+  "homepage": "https://goldmind.gg/mcp",
+  "keywords": [
+    "world of warcraft",
+    "wow forever",
+    "auction house",
+    "gold",
+    "crafting",
+    "farming"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/Cromie-Labs/goldmind-plugin"
+}

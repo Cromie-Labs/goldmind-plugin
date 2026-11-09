@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "goldmind": {
+      "type": "http",
+      "url": "https://api.goldmind.gg/api/mcp"
+    }
+  }
+}
