@@ -5,7 +5,7 @@
     "url": "https://goldmind.gg"
   },
   "metadata": {
-    "description": "Goldmind for Claude: live WoW Forever auction-house prices, craft profits, drop rates and farm plans for your own characters."
+    "description": "Goldmind for Claude: WoW Forever auction-house data and gold farm planning."
   },
   "plugins": [
     {
