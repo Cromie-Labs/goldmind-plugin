@@ -8,6 +8,9 @@
   },
   "homepage": "https://goldmind.gg/mcp",
   "privacyPolicyUrl": "https://goldmind.gg/privacy",
+  "termsOfServiceUrl": "https://goldmind.gg/terms",
+  "supportUrl": "https://goldmind.gg/support",
+  "documentationUrl": "https://goldmind.gg/mcp",
   "icon": ".claude-plugin/icon.png",
   "keywords": [
     "world of warcraft",
