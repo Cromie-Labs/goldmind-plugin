@@ -19,3 +19,4 @@ Goldmind reads only your own account's characters and the shared market data. Se
 ## Support
 
 https://goldmind.gg/support
+
